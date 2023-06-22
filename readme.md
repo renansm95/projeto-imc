@@ -10,7 +10,7 @@ Este é um projeto simples de cálculo do IMC para me ajudar na prática e no ap
   <a href="#-tecnologias">Informações</a>&nbsp;&nbsp;&nbsp;
 <br>
 
-<img src="./assets/Captura de Tela 2023-06-22 às 18.52.07.png" alt="print da página">
+<img width="1440" alt="Captura de Tela 2023-06-22 às 18 52 07" src="https://github.com/renansm95/projeto-imc/assets/125400699/9727aa68-ce83-4514-8722-e80198a29f40">
 
 ## 🚀 Tecnologias
 
